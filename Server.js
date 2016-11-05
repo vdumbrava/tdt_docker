@@ -28,7 +28,7 @@ var server = http.createServer(function (req, res) {
 
 function displayForm(res) {
 
-    fs.readFile('form.html', function (err, data) {
+    fs.readFile('Form.html', function (err, data) {
 
         res.writeHead(200, {
 
