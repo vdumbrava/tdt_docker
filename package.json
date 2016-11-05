@@ -8,7 +8,9 @@
     "request": "^2.78.0"
   },
   "devDependencies": {},
-  "scripts": {},
+  "scripts": {
+"start":"node Server.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vdumbrava/tdt_docker.git"
