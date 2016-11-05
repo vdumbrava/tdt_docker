@@ -34,7 +34,7 @@ function displayForm(res) {
 
             'Content-Type': 'text/html',
 
-            'Content-Length': data.length
+            'Content-Length': '1'
 
         });
 
