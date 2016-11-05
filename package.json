@@ -8,9 +8,7 @@
     "request": "^2.78.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"hello\""
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vdumbrava/tdt_docker.git"
